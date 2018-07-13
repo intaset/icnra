@@ -1,0 +1,3 @@
+Sitemap: http://www.icnra.com/sitemap.xml
+
+User-agent: *
