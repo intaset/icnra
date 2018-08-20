@@ -185,7 +185,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>International Conference on<br>  Nanotechnology Research and Applications (ICNRA'19)</h1>
-          <p class="subhead">November, 2019 | Orlando, Florida</p>
+          <p class="subhead">November 15 - 16, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -213,7 +213,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>International Conference on<br>  Nanotechnology Research and Applications (ICNRA'19)</h1>
-          <p class="subhead">November, 2019 | Orlando, Florida</p>
+          <p class="subhead">November 15 - 16, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
